@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Urban Gardening Revolution",
+    "desc": "Mayans | Pyramids",
+    "status": "PROGRESS",
+    "content_type": "ARTICLE",
+    "dateCreated": "2023-01-27T00:00:00.000000",
+    "dateUpdated": "2023-11-01T00:00:00.000000",
+    "url": "http://localhost:8080/historyMatters"
+  },
+  {
+    "title": "Coffee Cultures Worldwide",
+    "desc": "Beans | Brewing",
+    "status": "PROGRESS",
+    "content_type": "CONFERENCE_TALK",
+    "dateCreated": "2022-09-06T00:00:00.000000",
+    "dateUpdated": "2023-11-02T00:00:00.000000",
+    "url": "http://localhost:8080/TheLastCoffeeBenderSerpil"
+  },
+  {
+    "title": "Future of AI",
+    "desc": "Robotics | Ethics",
+    "status": "PROGRESS",
+    "content_type": "CONFERENCE_TALK",
+    "dateCreated": "2022-09-06T00:00:00.000000",
+    "dateUpdated": "2023-11-02T00:00:00.000000",
+    "url": "http://localhost:8080/AIFuture"
+  }
+]

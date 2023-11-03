@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "cc",
+      "type": "com.serpilozdemir.contentcalendar.config.ContentCalendarProperties",
+      "sourceType": "com.serpilozdemir.contentcalendar.config.ContentCalendarProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cc.about",
+      "type": "java.lang.String",
+      "sourceType": "com.serpilozdemir.contentcalendar.config.ContentCalendarProperties"
+    },
+    {
+      "name": "cc.welcome-message",
+      "type": "java.lang.String",
+      "sourceType": "com.serpilozdemir.contentcalendar.config.ContentCalendarProperties"
+    }
+  ],
+  "hints": []
+}
